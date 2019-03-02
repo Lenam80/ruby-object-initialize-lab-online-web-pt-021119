@@ -19,7 +19,7 @@ class Dog
     @name
   end
 
-Name.new("Fido" "Pug")
+Name.new("Fido" )
 Breed.new("Mutt","Pug")
   end
 end
