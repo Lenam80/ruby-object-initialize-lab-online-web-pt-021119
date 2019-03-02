@@ -18,6 +18,6 @@ class Dog
     @name
   end
 
-Name.new("Fido" "Mutt)
-Breed.new("Pug","Pug")
+Name.new("Fido" "Pug")
+Breed.new("Mutt","Pug")
   end
