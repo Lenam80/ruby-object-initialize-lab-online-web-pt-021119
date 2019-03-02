@@ -22,4 +22,3 @@ Name.new("Fido" "Pug")
 Breed.new("Mutt","Pug")
   end
 end
-
